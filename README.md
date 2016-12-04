@@ -3,3 +3,5 @@ Basically the program uses numpy to implement several basic image processing, in
 
 The homographyAPP is used as a GUI for most of the functions in homography.py. 
 
+have fun :)
+
